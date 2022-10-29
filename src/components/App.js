@@ -11,7 +11,7 @@ function App() {
           <div id="profile__img">
             <img src="/assets/rasheed.jpg" alt="profile__img" />
           </div>
-          <h3 id="twitter">Adekunle Rasheed</h3>
+          <h3 id="twitter">BigRashDev👩‍💻</h3>
           <h3 id="slack">Adekunle Rasheed</h3>
         </section>
         {data.map((link) => {
